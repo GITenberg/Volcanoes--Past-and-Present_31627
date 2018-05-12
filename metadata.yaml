@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35366'
     url: http://www.gutenberg.org/2009/agents/35366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31627#Volcanoes--Past-and-Present
 gutenberg_issued: '2010-03-13'
 gutenberg_type: Text
 identifiers:
