@@ -1,0 +1,29 @@
+_repo: Volcanoes--Past-and-Present_31627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hull, Edward
+    alias: Hull, E. (Edward)
+    birthdate: 1829
+    deathdate: 1917
+    gutenberg_agent_id: '35366'
+    url: http://www.gutenberg.org/2009/agents/35366
+description: ''
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31627'
+  lccn: 03008618
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Igneous rocks'
+- !lcsh 'Volcanoes'
+title: 'Volcanoes: Past and Present'
+url: http://www.gutenberg.org/ebooks/31627
